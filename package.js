@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'matdutour:outdated-browser',
-  version: '0.1.1',
+  name: 'dnimon:outdated-browser',
+  version: '0.1.2',
   summary: 'Detects outdated browsers and advises users to upgrade to a new version.',
-  git: 'https://github.com/mathieudutour/Meteor-outdated-browser.git',
+  git: 'https://github.com/dnimon/Meteor-outdated-browser.git',
   documentation: 'README.md'
 });
 
